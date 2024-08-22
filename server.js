@@ -239,7 +239,7 @@ app.post("/flights/search", async (req, res) => {
       requestPayload,
       {
         headers: {
-          Authorization: `Bearer T1RLAQIZZvlmkHtqpgeoRkk1x6qMG0UjbLXvA2kItac17EYbpBDGsHPLQYQuHeNWndl7bMAmAADgkAOGXF76tI2plUJ/pp1yQF7lwCyIJwBRhIFLpF0vFjK1KcKNCwPQlF86Om8f00Kp/lZbCvLeGzenjtcSg9VWKQXibDHDWiQNFhUzfin7NkH8ymvIFE8YW763GwXhCnLaIwWlMfCi/MoeJXojWV06GMZvNCsHVOushhic/Uuk954MbpvTpmXm62lr4jNFNB7OWq9AaAY0A8DLBbYS+eLI1gSjWRCtXR9wBzEMIOkMAyOfxdkSGPuYlf73QqDBiF4n839TCl4md31VKRl2I3WKyCoL5Yn/CSHsmg++Kws+/fk*`, // Replace with your actual token
+          Authorization: `Bearer T1RLAQJ2B+SSv2llhPCHtkFyd12TItLZyRhJLhUQ10ZV0MoghRAgXbbjyKiEbP8bDnlkS03NAADgxNUvYWppObEzD5Ntx+/FO8k3kqAPC0bzfHAeSiDk1D0QcGMCzlMksJOhNbQpmO3wWG/5vxpJc65brTZQTeLl2Sdf25HEnBQLaik1hhf6AOxbNOOGrI0p25GcB2Gl/nSFQ/BpTbC3lAnoxvtgCBAVJ/JBYTgSJW82o250laKAo15NflHJqmG1q/4AClT7BXvjjeBcTnJfad3IVhwghUyUgVgD3IldtxiJOWhG7VuUBK/d6F3yAsHwUmh+O4mKKYDyV4udwXcW0dunt0YCsvKxHWHvrWlOwivS6gQTKvvoK8Y*`, // Replace with your actual token
           Accept: "application/json",
           "Content-Type": "application/json",
         },
